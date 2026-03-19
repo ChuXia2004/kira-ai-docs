@@ -35,5 +35,5 @@ KiraAI does not directly send the text reply from the LLM to the user. Instead, 
 KiraAI adopts the AGPL-3.0 open source license, and community contributions and usage are welcome.
 
 ::: info
-During active development of this project, there may be **breaking updates**. Please back up your configuration files and data before updating.
+This project is currently in active development, and there may be **breaking updates**. Please back up your configuration files and data before updating.
 :::

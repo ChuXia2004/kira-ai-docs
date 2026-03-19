@@ -1,12 +1,12 @@
 # KiraAI 文档
 
-这是 KiraAI 官方文档的源码仓库，基于 VitePress 构建。
+This is the official documentation repo of KiraAI based on VitePress
 
-## 项目简介
+## Introduction
 
 KiraAI 是一个模块化、跨平台的 AI 数字生命平台，以数字生命为中心，连接大语言模型与多种聊天平台。
 
-## 功能特性
+## Features
 
 - 🚀 占用资源少，部署成本低
 - 🧩 支持丰富的插件扩展，轻松定制功能
@@ -15,7 +15,7 @@ KiraAI 是一个模块化、跨平台的 AI 数字生命平台，以数字生命
 - 🌐 支持 Windows、Linux、Docker 等多平台部署
 - 📚 详细的开发文档和示例，上手容易
 
-## 安装依赖
+## Installation
 
 ```bash
 # 使用 npm
@@ -28,7 +28,7 @@ pnpm install
 yarn install
 ```
 
-## 开发指南
+## Development
 
 ### 启动开发服务器
 

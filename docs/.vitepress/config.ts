@@ -48,7 +48,7 @@ export default defineConfig({
           prev: '上一页',
           next: '下一页'
         },
-        darkModeSwitchLabel: '切换深色模式',
+        darkModeSwitchLabel: '深色模式',
         sidebarMenuLabel: '菜单',
         returnToTopLabel: '返回顶部',
         sidebar: [
@@ -141,7 +141,7 @@ export default defineConfig({
           prev: 'Previous',
           next: 'Next'
         },
-        darkModeSwitchLabel: 'Switch to Dark Mode',
+        darkModeSwitchLabel: 'Dark Mode',
         sidebarMenuLabel: 'Menu',
         returnToTopLabel: 'Return to Top',
         sidebar: [
