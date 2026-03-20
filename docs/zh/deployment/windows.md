@@ -77,7 +77,7 @@ python main.py
 ## 访问KiraAI
 
 部署完成后，您可以通过以下地址访问KiraAI的Web管理界面：
-<a href="http://localhost:5267" target="_blank" rel="noreferrer">http://localhost:5267</a>
+http://localhost:5267
 如果是远程访问，将localhost替换为服务器IP地址。
 
 ## 注意事项

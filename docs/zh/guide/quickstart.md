@@ -2,9 +2,9 @@
 
 KiraAI 支持多种部署方式，包括但不限于：
 
-- [Windows 脚本启动](/deployment/windows)
-- [Linux 脚本启动](/deployment/linux)
-- [Docker 容器化部署](/deployment/docker)
+- [Windows 脚本启动](/zh/deployment/windows)
+- [Linux 脚本启动](/zh/deployment/linux)
+- [Docker 容器化部署](/zh/deployment/docker)
 
 ## 配置
 
@@ -19,4 +19,4 @@ KiraAI 支持多种部署方式，包括但不限于：
 
 ## 下一步
 
-- 学习 [插件开发](/development/development) 扩展KiraAI功能
+- 学习 [插件开发](/zh/development/development) 扩展KiraAI功能

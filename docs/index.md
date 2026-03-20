@@ -4,39 +4,39 @@ layout: home
 
 hero:
   name: "KiraAI"
-  text: "模块化、跨平台的 AI 数字生命"
-  tagline: 以数字生命为中心，连接大语言模型与多种聊天平台
+  text: "Modular, Cross-Platform AI Digital Life"
+  tagline: Centered on digital life, connecting large language models with various chat platforms
   # image:
   #   src: /logo.svg
   #   alt: KiraAI Logo
   actions:
     - theme: brand
-      text: 快速开始
+      text: Quick Start
       link: /guide/introduction
     - theme: alt
-      text: 部署教程
+      text: Deployment Guide
       link: /deployment/windows
     - theme: alt
-      text: 插件开发
+      text: Plugin Development
       link: /development/plugins
 
 features:
   - icon: 🚀
-    title: 占用低
-    details: 占用资源少，部署成本低
+    title: Low Resource Usage
+    details: Minimal resource consumption, low deployment cost
   - icon: 🧩
-    title: 插件化
-    details: 支持丰富的插件扩展，轻松定制功能
+    title: Plugin System
+    details: Rich plugin extensions, easy customization
   - icon: 🐳
-    title: 易部署
-    details: 多种部署方式，一键启动
+    title: Easy Deployment
+    details: Multiple deployment methods, one-click startup
   - icon: 🔒
-    title: 安全可靠
-    details: 提供完善的安全机制，保障数据隐私
+    title: Secure and Reliable
+    details: Comprehensive security mechanisms to protect data privacy
   - icon: 🌐
-    title: 多平台支持
-    details: 支持Windows、Linux、Docker等多平台部署
+    title: Multi-Platform Support
+    details: Support for Windows, Linux, Docker and other platforms
   - icon: 📚
-    title: 完善文档
-    details: 详细的开发文档和示例，上手容易
+    title: Comprehensive Documentation
+    details: Detailed development documentation and examples for easy onboarding
 ---

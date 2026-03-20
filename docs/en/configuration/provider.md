@@ -1,3 +1,0 @@
-# Provider Configuration
-
-> Documentation under construction...
