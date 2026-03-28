@@ -1,5 +1,8 @@
+# Termux部署
 
-# 一.前置准备
+本指南将帮助您在Termux上部署KiraAI。
+
+## 一.前置准备
 ### 1. 安装 Termux 
 https://github.com/termux/termux-app
 下载安装v0.118.3 或更高版本。
@@ -51,7 +54,7 @@ Acquire wakelock（获取唤醒锁）选无限制，
 
    ```
 
-# 二.安装 NapCat
+## 二.安装 NapCat
 
 在 Debian 环境中进行安装：
 
@@ -89,7 +92,7 @@ xvfb-run -a /root/Napcat/opt/QQ/qq --no-sandbox
 #### 详细登录配置流程请参考 NapCat 官方文档
 
 
-# 三.安装 KiraAI 
+## 三.安装 KiraAI 
 ### 1.确保在proot环境中，显示为“root@localhost:~#”
 ### 2.安装github
 
@@ -198,7 +201,7 @@ echo "echo ' 输入 Kiraai 一键启动 KiraAI (自动进入 Debian 并激活 .v
 source ~/.bashrc
 ```
 
-## 日常使用
+### 日常使用
 
 1. 启动 NapCat：在 Termux 中输入 NC 并按回车。
 2. 启动 KiraAI：新建一个 Termux 会话（侧滑新建），输入 Kiraai 并按回车。
